@@ -1,0 +1,8 @@
+*.pem
+*.key
+*.crt
+*.csr
+*.cnf
+*.ext
+*.srl
+node_modules/
